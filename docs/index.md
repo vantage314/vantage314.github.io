@@ -1,16 +1,16 @@
 ---
 layout: home
 
-title: LI SIR
+title: pyh
 titleTemplate: 个人博客
 
 hero: 
-  name: LI SIR
+  name: 潘有豪
   text: 我的个人博客
   tagline: 你的时间花在哪里，你的收获就在哪里
   image:
     src: /logo.png
-    alt: LI SIR
+    alt: pan
   actions:
     - theme: brand
       text: 开始学习
