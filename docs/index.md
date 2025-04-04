@@ -1,25 +1,32 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+title: LI SIR
+titleTemplate: 个人博客
+
+hero: 
+  name: LI SIR
+  text: 我的个人博客
+  tagline: 你的时间花在哪里，你的收获就在哪里
+  image:
+    src: /logo.png
+    alt: LI SIR
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始学习
+      link: /GFW/介绍/00.科学上网工具介绍
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 我的导航
+      link: /nav/
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features: 
+  - icon: 📝
+    title: 理论扎实
+    details: 万丈高楼平地起，夯实基础
+  - icon: 📚
+    title: 体系全面
+    details: 拒绝碎片化学习，拒绝一知半解
+  - icon: 📜
+    title: 综合运用
+    details: 整合各个组件，灵活运用，创造价值
 ---
-
